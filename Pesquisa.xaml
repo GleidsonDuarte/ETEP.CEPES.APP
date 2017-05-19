@@ -211,7 +211,213 @@
                            Placeholder="                    " />
                     <Label />
                     
+                    <Label Text="Alho Kg"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="Alho"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
                     
+                    <Label Text="Ovos Brancos Dz - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorOvosBrancos"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Ovos Brancos Dz - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorOvosBrancos"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                    
+                    <Label Text="Margarina Pote 500g - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorMargarina"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Margarina Pote 500g - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorMargarina"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Molho Tomate Tradicional 340g - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorMolhoTomate"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Molho Tomate Tradicional 340g - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorMolhoTomate"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Extrato Tomate Tradicional 340g - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorExtratoTomate"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Extrato Tomate Tradicional 340g - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorExtratoTomate"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Óleo de Soja 900mL - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorOleoSoja"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Óleo de Soja 900mL - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorOleoSoja"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Leite em pó 400g - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorLeitePo"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Leite em pó 400g - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorLeitePo"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Macarrão com ovos 500g - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorMacarraoOvos"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Macarrão com ovos 500g - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorMacarraoOvos"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Sardinha em conserva 125g - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorSardinhaConserva"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Sardinha em conserva 125g - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorSardinhaConserva"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                  <Label Text="Biscoito Maizena 200g - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorBiscoitoMaizena"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Biscoito Maizena 200g - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorBiscoitoMaizena"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Acém sem osso Kg"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="AcemSemOsso"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Picanha Kg"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="Picanha"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Bisteca Suína Kg"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="BistecaSuina"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Frango Resfriado Inteiro Kg"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="FrangoResfriado"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
                     <Button Text="ENVIAR PESQUISA"
                             HorizontalOptions="Center"
                             Clicked="EnviarPesquisa" />
