@@ -418,6 +418,60 @@
                            Placeholder="                    " />
                     <Label />
                   
+                    <Label Text="Salsicha Avulsa Kg - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorSalsicha"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Salsicha Avulsa Kg - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorSalsicha"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                    
+                    <Label Text="Linguiça Toscana Fresca Kg - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorLinguica"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Linguiça Toscana Fresca Kg - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorLinguica"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                    
+                    <Label Text="Queijo Mozzarella Fatiado Kg - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorQueijoMozzarella"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
+                    <Label Text="Queijo Mozzarella Fatiado Kg - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorQueijoMozzarella"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                  
                     <Button Text="ENVIAR PESQUISA"
                             HorizontalOptions="Center"
                             Clicked="EnviarPesquisa" />
