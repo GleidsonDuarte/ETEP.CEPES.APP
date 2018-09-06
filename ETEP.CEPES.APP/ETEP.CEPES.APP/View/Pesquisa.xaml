@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ETEP.CEPES.APP"
+             x:Class="ETEP.CEPES.APP.View.Pesquisa">
+    <ContentPage.Content>
+        <StackLayout>
+            <ScrollView VerticalOptions="FillAndExpand">
+    
+                <StackLayout HorizontalOptions="CenterAndExpand">
+                    <Label />
+                    <Label Text="TELA DE PESQUISA"
+                           HorizontalOptions="Center" />
+                    <Label />
+                    
+                    <Label Text="Quantidade de checkouts (caixas)"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="QuantidadeCaixa"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Arroz 5Kg Tipo 1 - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorArroz"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Arroz 5Kg Tipo 1 - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorArroz"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Feijão Carioca 1Kg- Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorFeijaoCarioca"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Feijão Carioca 1Kg- Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorFeijaoCarioca"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Feijão Preto 1Kg- Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorFeijaoPreto"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Feijão Preto 1Kg- Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorFeijaoPreto"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Açucar Refinado 1Kg- Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorAcucar"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Açucar Refinado 1Kg- Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorAcucar"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Sal 1Kg- Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorSal"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Sal 1Kg- Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorSal"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Café em Pó 500g- Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorCafe"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Café em Pó 500g - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorCafe"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Farinha de Milho Refinada 1Kg- Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorFarinhaMilho"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Farinha de Milho Refinada 1Kg- Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorFarinhaMilho"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Farinha de Trigo 1Kg - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorFarinhaTrigo"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Farinha de Trigo 1Kg - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorFarinhaTrigo"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Farinha de Mandioca Torrada 500g - Menor Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MenorValorFarinhaMandioca"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Farinha de Mandioca Torrada 500g - Maior Valor"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="MaiorValorFarinhaMandioca"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Batata Lavada Kg"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="Batata"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Tomate Salada Kg"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="Tomate"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+
+                    <Label Text="Cebola Kg"
+                           HorizontalOptions="Center"
+                           FontSize="14" />
+                    <Entry x:Name="Cebola"
+                           HorizontalOptions="Center"
+                           Keyboard="Numeric"
+                           Placeholder="                    " />
+                    <Label />
+                    
+                    
+                    <Button Text="ENVIAR PESQUISA"
+                            HorizontalOptions="Center"
+                            Clicked="EnviarPesquisa" />
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

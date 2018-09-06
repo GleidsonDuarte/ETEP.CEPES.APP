@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ETEP.CEPES.APP"
+             x:Class="ETEP.CEPES.APP.View.MainPage"
+             BackgroundColor="Teal"
+             Title="CEPES">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout VerticalOptions="FillAndExpand"
+                         HorizontalOptions="FillAndExpand"
+                         BackgroundColor="CadetBlue">
+                <Label Text="PROJETO CEPES" />
+            </StackLayout>
+            <StackLayout VerticalOptions="FillAndExpand"
+                         HorizontalOptions="FillAndExpand"
+                         BackgroundColor="DarkOrange">
+                <Entry  x:Name="NomeOuEmail"
+                        Placeholder="Seu nome ou e-mail"
+                        HorizontalOptions="Center" />
+                <Label />
+                <Entry  x:Name="SenhaLogin"
+                        Placeholder="Sua senha"
+                        IsPassword="True"
+                        HorizontalOptions="Center" />
+                <Button Text="LOGAR"
+                        HorizontalOptions="Center"
+                        Clicked="LogarUsuario" />
+            </StackLayout>
+            <StackLayout VerticalOptions="FillAndExpand"
+                         BackgroundColor="Teal">
+                <Button Text="CADASTRAR"
+                        VerticalOptions=""
+                        HorizontalOptions="Center"
+                        Clicked="CadastrarUsuario" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

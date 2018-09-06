@@ -1,0 +1,168 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215487&action=Download
+
+TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215486&action=Download
+
+TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215485&action=Download
+
+ETEP.CEPES.APP.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216059&action=Download
+
+FormsViewGroup.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216058&action=Download
+
+Newtonsoft.Json.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216057&action=Download
+
+System.Diagnostics.Tools.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216056&action=Download
+
+System.Net.Http.Formatting.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216055&action=Download
+
+System.Net.Http.Primitives.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216054&action=Download
+
+System.ObjectModel.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216052&action=Download
+
+System.Resources.ResourceManager.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216051&action=Download
+
+System.Runtime.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216050&action=Download
+
+Xamarin.Android.Support.Animated.Vector.Drawable.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216049&action=Download
+
+Xamarin.Android.Support.Design.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216048&action=Download
+
+Xamarin.Android.Support.v4.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216047&action=Download
+
+Xamarin.Android.Support.v7.AppCompat.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216046&action=Download
+
+Xamarin.Android.Support.v7.CardView.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216044&action=Download
+
+Xamarin.Android.Support.v7.MediaRouter.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216045&action=Download
+
+Xamarin.Android.Support.v7.RecyclerView.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216043&action=Download
+
+Xamarin.Android.Support.Vector.Drawable.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216042&action=Download
+
+Xamarin.Forms.Core.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216041&action=Download
+
+Xamarin.Forms.Platform.Android.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216039&action=Download
+
+Xamarin.Forms.Platform.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216038&action=Download
+
+Xamarin.Forms.Xaml.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216037&action=Download
+
+cache.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216325&action=Download
+
+cache.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216327&action=Download
+
+cache.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216333&action=Download
+
+cache.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216339&action=Download
+
+cache.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216347&action=Download
+
+cache.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216354&action=Download
+
+cache.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216357&action=Download
+
+cache.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216362&action=Download
+
+_dex_stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215553&action=Download
+
+_javac.stamp - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215552&action=Download
+
+android_debug_keystore.flag - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215577&action=Download
+
+Component.R.cs.flag - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215578&action=Download
+
+emulator-5554.deployment - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215571&action=Download
+
+f3azb600r368.deployment - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215566&action=Download
+
+link.flag - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215562&action=Download
+
+R.cs.flag - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215561&action=Download
+
+static.flag - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215560&action=Download
+
+strip.flag - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215559&action=Download
+
+TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215557&action=Download
+
+TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215556&action=Download
+
+TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215555&action=Download
+
+upload.flag - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215554&action=Download
+
+build.force - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216065&action=Download
+
+TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216062&action=Download
+
+TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216061&action=Download
+
+TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216060&action=Download
+
+App.g.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216077&action=Download
+
+build.force - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216075&action=Download
+
+MainPage.g.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216072&action=Download
+
+TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216070&action=Download
+
+TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216069&action=Download
+
+TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216068&action=Download
+
+XamlTypeInfo.g.cs - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%216066&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215591&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215593&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215601&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215602&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215608&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215616&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215623&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215630&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215636&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215644&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215647&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215645&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215646&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215648&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215649&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215662&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215668&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215669&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215671&action=Download
+
+_._ - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215670&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215689&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215694&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215701&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215706&action=Download
+
+ensureRedirect.xml - https://onedrive.live.com/?cid=1c102c20423837bd&id=1C102C20423837BD%215710&action=Download
+
+
+

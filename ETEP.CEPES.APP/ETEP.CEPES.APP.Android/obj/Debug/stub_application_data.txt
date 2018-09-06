@@ -1,0 +1,2 @@
+android.app.Application
+ETEP.CEPES.APP.Android
